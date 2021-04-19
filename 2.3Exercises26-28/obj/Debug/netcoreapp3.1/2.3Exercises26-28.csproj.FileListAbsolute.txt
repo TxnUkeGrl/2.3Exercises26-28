@@ -1,0 +1,13 @@
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\bin\Debug\netcoreapp3.1\2.3Exercises26-28.exe
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\bin\Debug\netcoreapp3.1\2.3Exercises26-28.deps.json
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\bin\Debug\netcoreapp3.1\2.3Exercises26-28.runtimeconfig.json
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\bin\Debug\netcoreapp3.1\2.3Exercises26-28.runtimeconfig.dev.json
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\bin\Debug\netcoreapp3.1\2.3Exercises26-28.dll
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\bin\Debug\netcoreapp3.1\2.3Exercises26-28.pdb
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\obj\Debug\netcoreapp3.1\2.3Exercises26-28.csprojAssemblyReference.cache
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\obj\Debug\netcoreapp3.1\2.3Exercises26-28.AssemblyInfoInputs.cache
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\obj\Debug\netcoreapp3.1\2.3Exercises26-28.AssemblyInfo.cs
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\obj\Debug\netcoreapp3.1\2.3Exercises26-28.csproj.CoreCompileInputs.cache
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\obj\Debug\netcoreapp3.1\2.3Exercises26-28.dll
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\obj\Debug\netcoreapp3.1\2.3Exercises26-28.pdb
+D:\GCProjects\2.3Exercises26-28\2.3Exercises26-28\obj\Debug\netcoreapp3.1\2.3Exercises26-28.genruntimeconfig.cache
